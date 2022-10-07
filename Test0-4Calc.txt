@@ -1,0 +1,11 @@
+//Clean Program
+begin 
+  print "Good Morning NJIT"
+  
+  //compute circle area and circumference
+  r = 5;
+  pi = 3.14;
+
+  area = pi * r * r;
+  if (r) then print "Area: ", area;
+end 
